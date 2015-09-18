@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "name" : "ローシカ時計",
+  "description": "時計でもローシカ",
+  "version": "1.0",
+  "author": "Jecy",
+  "content_scripts": [{
+    "matches": ["app://clock.gaiamobile.org/index.html"],
+    "css": ["css/style.css"],
+    "js": ["js/index.js"]
+  }],
+  "icons": {
+    "128": "icons/128.png"
+  }
+}

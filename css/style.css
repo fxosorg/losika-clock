@@ -1,0 +1,17 @@
+#alarm-panel{
+  background: white;
+  /* background: url("../images/background.png"); */
+}
+
+#analog-clock-face{
+  background-image: url("../images/analog_clock_face.png");
+}
+#secondhand{
+  background-image: url("../images/analog_clock_second_hand.png");
+}
+#minutehand{
+  background-image: url("../images/analog_clock_minute_hand.png");
+}
+#hourhand{
+  background-image: url("../images/analog_clock_hour_hand.png");
+}

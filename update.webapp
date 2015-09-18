@@ -1,0 +1,9 @@
+{
+  "name" : "ローシカ時計",
+  "description": "時計でもローシカ",
+  "developer": { "name": "Jecy" },
+  "package_path": "extension.zip",
+  "icons": {
+    "128": "icons/128.png"
+  }
+}
